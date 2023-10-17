@@ -14,7 +14,7 @@ The NFTs are generated using a custom algorithm that takes a chess position as i
 
 The NFTs are minted using the [Sepolia](https://sepolia.io/) blockchain. The NFTs are stored on the Sepolia testnet blockchain and can be viewed on [Opensea](https://testnets.opensea.io/collection/kasparov-s-legacy-1). The NFTs are minted using the `mint.py` file. The `mint.py` file uses the [Hardhat](https://hardhat.org/) framework to interact with the Sepolia blockchain.
 
-To mint the NFTs, you need to have a [Metamask](https://metamask.io/) wallet with some Sepolia testnet ETH. You can get some Sepolia testnet ETH from the [Sepolia faucet](https://faucet.sepolia.io/). You also need to have [Node.js](https://nodejs.org/en/) installed on your computer.
+To mint the NFTs, you need to have a [Metamask](https://metamask.io/) wallet with some Sepolia testnet ETH. You can get some Sepolia testnet ETH from the Sepolia faucet. You also need to have [Node.js](https://nodejs.org/en/) installed on your computer.
 
 Before running, make sure to create a `.env` file in the root directory of the project and add the following environment variables:
 
